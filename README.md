@@ -20,8 +20,8 @@ PodHub is a podcast hosting platform built with modern web technologies includin
 
 1. Clone the repository :
 ```
-   git clone https://github.com/BhupeshChaudhari/PodHub.git
-   cd PodHub
+   git clone https://github.com/Vishalbhalkar/Podhub-PodcastManager.git
+   cd pod
 ```
 
 2. Install dependencies for both client and server : 
